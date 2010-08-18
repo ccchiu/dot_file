@@ -1,0 +1,3 @@
+*.txt ident
+*.c   ident
+*.*   ident
